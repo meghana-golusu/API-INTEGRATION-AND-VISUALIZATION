@@ -20,6 +20,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 from datetime import datetime
+
 **How the Output is Produced**
 1.Fetching Weather Data
 2.Parsing Weather Data
@@ -29,6 +30,7 @@ from datetime import datetime
 # LIBRARIES USED IN AUTOMATED_REPORT_GENERATION:
 import csv
 from fpdf import FPDF
+
 **How the Output is Produced**
 1.Reading Data
 2.Generating the PDF
@@ -36,6 +38,7 @@ from fpdf import FPDF
 # LIBRARIES USED IN AI_CHATBOT_WITH_NLP:
 import nltk
 from nltk.chat.util import Chat, reflections
+
 **How the Output is Produced**
 1.User Input
 2.Pattern Matching
@@ -54,6 +57,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import zipfile
 import os
+
 **How the Output is Produced**
 1.Dataset Extraction and Loading
 2.Data Preprocessing
