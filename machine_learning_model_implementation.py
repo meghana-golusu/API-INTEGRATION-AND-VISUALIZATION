@@ -10,7 +10,7 @@ import zipfile
 import os
 
 # Load and extract the dataset from the ZIP file
-zip_path = r"C:\Users\megha\Downloads\smsspamcollection.zip"
+zip_path = "smsspamcollection.zip"
 with zipfile.ZipFile(zip_path, 'r') as z:
     z.extractall()  # Extracts all files into the current directory
 
