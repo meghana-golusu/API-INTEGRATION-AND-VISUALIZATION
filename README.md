@@ -20,4 +20,3 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from datetime import datetime
 
-**OUTPUT OF API-INTEGRATION-AND-DATA-VISUALIZATION**:
